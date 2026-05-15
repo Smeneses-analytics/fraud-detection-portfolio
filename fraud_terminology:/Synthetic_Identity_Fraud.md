@@ -23,7 +23,7 @@ An SIF appears when an account is created with a mix of hybrid information, real
 
 -	The person in question is uncertain about their personal information, often hesitating when asked for their DOB or maiden name.
 -	A person with a lot of different information not related to the account, when they start providing a lot of addresses and phone numbers, and email is not a good sign 
--	Someone is whispering in the background during the call when we are doing the verification process 
+-	Background coaching signals during identity verification interactions — third parties prompting answers when the caller hesitates
 
 #### Bust-out-signals (investigate immediately):
 
