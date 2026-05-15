@@ -13,9 +13,9 @@ An SIF appears when an account is created with a mix of hybrid information, real
 
 ### Lifecycle
 
--#####	Cultivation (6-24 months): The customer builds a good relationship with the financial institution that they would like to take advantage of 
--#####	Maturation: After building a good reputation, they start requesting an increase on their loans and start using it in full
--#####	Bust-out: After building a very good relationship with the financial institution and requesting an important loan amount, they disappear and never pay it again 
+- Cultivation (6-24 months): The customer builds a good relationship with the financial institution that they would like to take advantage of 
+- Maturation: After building a good reputation, they start requesting an increase on their loans and start using it in full
+- Bust-out: After building a very good relationship with the financial institution and requesting an important loan amount, they disappear and never pay it again 
 
 ### Detection Signals
 
