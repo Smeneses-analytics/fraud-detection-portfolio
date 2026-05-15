@@ -1,20 +1,20 @@
-#Synthetic Identity Fraud (SIF) — BNPL Context
+# Synthetic Identity Fraud (SIF) — BNPL Context
 
-##Definition
+## Definition
 An SIF appears when an account is created with a mix of hybrid information, real and fake information from a person taking the SSN from deceased persons or minor children. This person grows and enhances their image with financial companies, requests more credit, and, at their peak credit limit, will request the full amount and will not pay again. 
 
-###Anatomy of a Synthetic Identity and lifecycle 
+### Anatomy of a Synthetic Identity and lifecycle 
 
 -	Real and fake information from a person who matches the credit bureau, usually the SSN of a death person or a child
 -	Fabricated PII, fake name, fake address, fake DOB 
 -	New contact information (Email, phone)
 -	The address could be a real address, but not their real address, or a mail forwarding address 
 
-###Lifecycle
+### Lifecycle
 -	Cultivation (6-24 months): The customer builds a good relationship with the financial institution that they would like to take advantage of 
 -	Maturation: After building a good reputation, they start requesting an increase on their loans and start using it in full
 -	Bust-out: After building very good relationship with the financial institution and requesting an important loan amount, they disappear and never pay it again 
-###Detection Signals
+### Detection Signals
 Pre-bust-out
 -	The person calling is not sure about their personal information (They doubt when someone asks for their DOB or their maiden name)
 -	A person with a lot of different information not related to the account, when they start providing a lot of addresses and phone numbers, and email is not a good sign 
