@@ -31,7 +31,12 @@ Malware/Keylogging: Compromise device captures credentials.
 -	CFPB risk: Repeated complaints trigger supervisory review (Supervisory highlight issue 33)
 -	Operational cost: Investigation hours + reputational damage + legitimate user churn, which is the calculation of the time a shopper stops doing business with a specific merchant. 
 
-## Observed Pattern (Personal experience)
-Accounts from elderly customers, or used by a relative, are more prone to being at risk; customers who are not tech-savvy are more prone to being affected by this fraud type. 
+## Observed Vulnerability Pattern
+
+Customer demographics commonly associated with higher ATO risk in 
+BNPL contexts include elderly users, accounts shared with relatives, 
+and users with lower digital literacy. These patterns are widely 
+documented in industry research (AARP, FTC consumer alerts) and 
+Align with risk-based authentication frameworks.
 
 
