@@ -21,9 +21,9 @@ An SIF appears when an account is created with a mix of hybrid information, real
 
 #### Pre-bust-out
 
--	The person calling is not sure about their personal information (They doubt when someone asks for their DOB or their maiden name)
+-	The person in question is uncertain about their personal information, often hesitating when asked for their DOB or maiden name.
 -	A person with a lot of different information not related to the account, when they start providing a lot of addresses and phone numbers, and email is not a good sign 
--	Someone is whispering in the background during the call when we are doing the verification process
+-	Someone is whispering in the background during the call when we are doing the verification process 
 
 #### Bust-out-signals (investigate immediately):
 
