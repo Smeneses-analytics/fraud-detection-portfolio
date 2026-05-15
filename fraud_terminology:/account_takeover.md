@@ -3,13 +3,13 @@
 ## Definition
 An ATO appears when a third party accesses a legitimate existing account without authorization. 
 ## Attack Vectors
-Credential Stuffing:  Reused passwords leaked in external breaches.
-Phishing: Victim submits credentials to spoofed sites 
-SIM Swap: the thief can swap the customer’s SIM into his phone to obtain the 2FA codes and access the account to place orders. 
+-  Credential Stuffing:  Reused passwords leaked in external breaches.
+-  Phishing: Victim submits credentials to spoofed sites 
+-  SIM Swap: the thief can swap the customer’s SIM into his phone to obtain the 2FA codes and access the account to place orders. 
 Malware/Keylogging: Compromise device captures credentials.
 ## Detection Signals
-Severity classification criteria: 
-Three criteria classify signals:
+### Severity classification criteria: 
+####Three criteria classify signals:
 ##### 	1. Damage irreversibility (How fast/how much is lost if ignored)
 #####	2. Signal specificity (How unique the fraud vs normal user behavior)
 #####	3. Isolability (Whether the signal alone warrants actions or requires a combination) 
@@ -31,7 +31,7 @@ Three criteria classify signals:
 -	CFPB risk: Repeated complaints trigger supervisory review (Supervisory highlight issue 33)
 -	Operational cost: Investigation hours + reputational damage + legitimate user churn, which is the calculation of the time a shopper stops doing business with a specific merchant. 
 
-## Observed Pattern (EFA / CS Experience)
+## Observed Pattern (Personal experience)
 Accounts from elderly customers, or used by a relative, are more prone to being at risk; customers who are not tech-savvy are more prone to being affected by this fraud type. 
 
 
