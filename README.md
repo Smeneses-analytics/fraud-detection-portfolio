@@ -6,7 +6,7 @@ case studies for fraud detection in BNPL (Buy Now Pay Later) environments.
 ## About
 
 This portfolio reflects hands-on work developed during my transition from 
-Customer Service Agent to Fraud Operations Analyst at Sezzle. It combines 
+Customer Service Agent to Fraud Operations Analyst. It combines 
 technical SQL skills with fraud domain knowledge gained through the Extended 
 Fraud Alerts (EFA) verification work.
 
@@ -48,7 +48,7 @@ All SQL queries operate on a `transactions` table:
 
 ## Background
 
-Currently working in the Extended Fraud Alerts (EFA) team at Sezzle. This portfolio represents preparation 
+Currently working in the Extended Fraud Alerts (EFA) team at a BNPL company. This portfolio represents preparation 
 for transition into Fraud Operations Analyst and subsequently Fraud Data 
 Analyst roles.
 
