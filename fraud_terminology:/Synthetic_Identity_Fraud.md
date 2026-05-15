@@ -36,11 +36,4 @@ An SIF appears when an account is created with a mix of hybrid information, real
 -	BNPL company assumes the responsibility since the company has been trusting this shopper for some time, since this shopper has been having a good payment history, and suddenly the shopper disappears, and when the accounts are sent to collections, there is nobody to charge that debt. 
 -	This generates additional costs since the BNPL company assumes 100% of the loss.
 
-### Connection with EFA work: (Pending)
-
-The EFA verification is a critical checkpoint for SIF. During the call, we can determine whether the person is who they claim to be, since EFA calls are unexpected.  As part of the verification process, probing questions are asked that they must answer on the spot. 
-
-Furthermore, the customer is informed that there is an EFA tied to their information, and they will be asked if they have tried to use the company’s services, to which the shopper will answer positively, while a fraudster may hesitate or contradict themselves.
-
-Additionally, EFA verification applies to both ATO fraud and SIF. When the credit bureau is not able to provide enough information about the person in question, that scenario can be flagged as a potential SIF. 
 
