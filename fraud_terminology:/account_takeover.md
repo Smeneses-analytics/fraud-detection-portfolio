@@ -9,7 +9,7 @@ An ATO appears when a third party accesses a legitimate existing account without
 Malware/Keylogging: Compromise device captures credentials.
 ## Detection Signals
 ### Severity classification criteria: 
-####Three criteria classify signals:
+#### Three criteria classify signals:
 ##### 	1. Damage irreversibility (How fast/how much is lost if ignored)
 #####	2. Signal specificity (How unique the fraud vs normal user behavior)
 #####	3. Isolability (Whether the signal alone warrants actions or requires a combination) 
