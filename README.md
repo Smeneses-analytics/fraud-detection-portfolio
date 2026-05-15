@@ -3,6 +3,26 @@
 Production-grade SQL queries, fraud terminology documentation, and operational 
 case studies for fraud detection in BNPL (Buy Now Pay Later) environments.
 
+## Disclaimer
+
+This portfolio is an independent learning project developed for 
+educational purposes and professional skill demonstration. 
+
+All content — including SQL queries, fraud terminology documentation, 
+detection logic, and observed patterns — reflect publicly available 
+concepts and industry-standard frameworks in fraud detection. The 
+SQL queries operate on a self-created PostgreSQL database with 
+synthetic data designed specifically for learning purposes; they do 
+not reference, replicate, or derive from any real organization's 
+data, systems, or internal processes.
+
+Nothing in this repository represents proprietary information, 
+internal procedures, operational data, customer information, or 
+official positions of any current or past employer. All examples, 
+patterns, and observations are illustrative and generalized from 
+publicly documented fraud typologies in the BNPL and financial 
+services industry.
+
 ## About
 
 This portfolio reflects hands-on work developed during my transition from 
