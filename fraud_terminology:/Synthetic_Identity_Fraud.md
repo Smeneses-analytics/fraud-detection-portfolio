@@ -21,7 +21,9 @@ An SIF appears when an account is created with a mix of hybrid information, real
 
 #### Pre-bust-out
 
--	The person in question is uncertain about their personal information, often hesitating when asked for their DOB or maiden name.
+-	Uncertainty or hesitation in providing basic identity information 
+  (date of birth, mother's maiden name, address history) when 
+  verified through standard identity authentication processes
 -	A person with a lot of different information not related to the account, when they start providing a lot of addresses and phone numbers, and email is not a good sign 
 -	Background coaching signals during identity verification interactions — third parties prompting answers when the caller hesitates
 
