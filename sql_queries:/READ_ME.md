@@ -27,4 +27,4 @@ All queries operate on a `transactions` table:
 ## Author
 
 Santiago Meneses — Customer Service Agent → Fraud Operations transition.
-Currently working on Sezzle Extended Fraud Alerts (EFA) team.
+Currently working on Sezzle as a Customer Service Specialist supporting the Extended Fraud Alerts (EFA) team.
