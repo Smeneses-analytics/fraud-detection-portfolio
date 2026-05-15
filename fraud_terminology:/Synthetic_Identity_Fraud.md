@@ -27,18 +27,18 @@ An SIF appears when an account is created with a mix of hybrid information, real
 
 #### Bust-out-signals (investigate immediately):
 
--Very good behaviour paying, and suddenly stopped paying all their accounts, and have not contacted the company to inform them why 
--Not getting any contact in the last 2 months despite having recurring late payments 
--Remove their payment method or request the revocation of their payment method after having some failed payments 
+-	Very good behaviour paying, and suddenly stopped paying all their accounts, and have not contacted the company to inform them why 
+-	Not getting any contact in the last 2 months despite having recurring late payments 
+-	Remove their payment method or request the revocation of their payment method after having some failed payments 
 
 ### Why is Critical for BNPL
 
--BNPL company assumes the responsibility since the company has been trusting this shopper for some time, since this shopper has been having a good payment history, and suddenly the shopper disappears, and when the accounts are sent to collections, there is nobody to charge that debt. 
--This generates additional costs since the BNPL company assumes 100% of the loss.
+-	BNPL company assumes the responsibility since the company has been trusting this shopper for some time, since this shopper has been having a good payment history, and suddenly the shopper disappears, and when the accounts are sent to collections, there is nobody to charge that debt. 
+-	This generates additional costs since the BNPL company assumes 100% of the loss.
 
 ### Connection with EFA work: (Pending)
 
--The EFA verification is a critical checkpoint for SIF. During the call, we can determine whether the person is who they claim to be, since EFA calls are unexpected.  As part of the verification process, probing questions are asked that they must answer on the spot. 
+The EFA verification is a critical checkpoint for SIF. During the call, we can determine whether the person is who they claim to be, since EFA calls are unexpected.  As part of the verification process, probing questions are asked that they must answer on the spot. 
 
 Furthermore, the customer is informed that there is an EFA tied to their information, and they will be asked if they have tried to use the company’s services, to which the shopper will answer positively, while a fraudster may hesitate or contradict themselves.
 
