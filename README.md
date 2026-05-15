@@ -48,7 +48,7 @@ All SQL queries operate on a `transactions` table:
 
 ## Background
 
-Currently working in the Extended Fraud Alerts (EFA) team at a BNPL company. This portfolio represents preparation 
+Currently working in the Customer Service department, supporting the Extended Fraud Alerts (EFA) team at a BNPL company. This portfolio represents preparation 
 for transition into Fraud Operations Analyst and subsequently Fraud Data 
 Analyst roles.
 
